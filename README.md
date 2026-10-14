@@ -4,6 +4,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Quickshell Adjustment](https://samwhelp.github.io/quickshell-adjustment/) | [GitHub](https://github.com/samwhelp/quickshell-adjustment) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Wayland Adjustment](https://samwhelp.github.io/wayland-adjustment/) | [GitHub](https://github.com/samwhelp/wayland-adjustment) |
 | [Wayland Note](https://samwhelp.github.io/note-about-wayland/) | [GitHub](https://github.com/samwhelp/note-about-wayland) |
 
