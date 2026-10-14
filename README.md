@@ -26,6 +26,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
+| [Quickshell Adjustment](https://samwhelp.github.io/quickshell-adjustment/) | [GitHub](https://github.com/samwhelp/quickshell-adjustment) |
+
+
+| Link | GitHub |
+| ---- | ------ |
 | [Hyprland Adjustment](https://samwhelp.github.io/hyprland-adjustment/) | [GitHub](https://github.com/samwhelp/hyprland-adjustment) |
 | [Niri Adjustment](https://samwhelp.github.io/niri-adjustment/) | [GitHub](https://github.com/samwhelp/niri-adjustment) |
 | [Mangowm Adjustment](https://samwhelp.github.io/mangowm-adjustment/) | [GitHub](https://github.com/samwhelp/mangowm-adjustment) |
