@@ -16,6 +16,8 @@ has_children: false
 | ------- |
 | [Wayland](https://wayland.freedesktop.org/) |
 | GitLab / [wayland](https://gitlab.freedesktop.org/wayland) |
+| [Wayland book](https://wayland.freedesktop.org/docs/book/) |
+| [libwayland documentation](https://wayland.freedesktop.org/docs/html/) |
 
 
 
